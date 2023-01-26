@@ -1,0 +1,4 @@
+rootProject.name = 'WenFangBookstoreTransact'
+include 'server'
+include 'server'
+
